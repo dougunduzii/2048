@@ -6,6 +6,6 @@
 pygame
 
 ## ❓How to begin?
-`git clone https://github.com/dougunduzii/2048`
-`pip install pygame`
+`git clone https://github.com/dougunduzii/2048`<br>
+`pip install pygame`<br>
 `python main.py`
